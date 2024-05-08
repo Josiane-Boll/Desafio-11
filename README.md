@@ -1,2 +1,2 @@
-Criar Currículo com html
+Criar Currículo com html no VSCode
 
